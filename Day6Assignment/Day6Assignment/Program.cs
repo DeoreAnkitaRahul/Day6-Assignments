@@ -11,7 +11,7 @@ namespace Day6Assignment
         static void Main(string[] args)
         {
             LinkedList linkedListClass = new LinkedList();
-            linkedListClass.MethodLinkedList();
+            linkedListClass.MethodStack();
             Console.ReadLine();
         }
     }
